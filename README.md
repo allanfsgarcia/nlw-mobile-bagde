@@ -1,11 +1,11 @@
-##_Imersão_: NLW RocketSeat
-##_Desafio_: Criarum bagde de apresentação com para um dispositivo mobile.
+# **Imersão**_: NLW RocketSeat
+## _**Desafio**_: Criarum bagde de apresentação com para um dispositivo mobile.
 
-### _Proposta_:
+### _**Proposta**_:
 
 - Desenvolver a aplicação nos 3 dias de evento
 - Utilizar apenas HTML,CSS e JavaScript
-- - Atualizar a bio do badge de acordo com a bio do github
+- Atualizar a bio do badge de acordo com a bio do github
 - Discutir as tarefas do projeto e sua execução com a comunidade do evento no Discord.
 
 
