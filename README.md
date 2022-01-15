@@ -11,4 +11,4 @@
 
 ![image](https://user-images.githubusercontent.com/91488719/149635669-acf082ec-4488-48d9-ba2c-05614a542cdf.png)
 
-#### **Evento produzido pela RocketSeat.
+#### **Evento produzido pela RocketSeat**.
