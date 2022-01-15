@@ -1,7 +1,7 @@
-# **Imersão**_: NLW RocketSeat
-## _**Desafio**_: Criar um bagde de apresentação com para um dispositivo mobile.
+# **Imersão**: NLW RocketSeat
+## **Desafio**: Criar um bagde de apresentação com para um dispositivo mobile.
 
-### _**Proposta**_:
+### **Proposta**:
 
 - Desenvolver a aplicação nos 3 dias de evento
 - Utilizar apenas HTML,CSS e JavaScript
