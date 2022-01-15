@@ -1,5 +1,5 @@
 # **Imersão**_: NLW RocketSeat
-## _**Desafio**_: Criarum bagde de apresentação com para um dispositivo mobile.
+## _**Desafio**_: Criar um bagde de apresentação com para um dispositivo mobile.
 
 ### _**Proposta**_:
 
@@ -11,3 +11,4 @@
 
 ![image](https://user-images.githubusercontent.com/91488719/149635669-acf082ec-4488-48d9-ba2c-05614a542cdf.png)
 
+#### **Evento produzido pela RocketSeat.
