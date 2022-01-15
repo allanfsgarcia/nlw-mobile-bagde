@@ -1,6 +1,6 @@
 const LinksSocialMedia = {
   github: 'allanfsgarcia',
-  linkedin: '/in/allan-garcia-670b0538',
+  linkedin: '/in/allan.fsgarcia',
   facebook: 'allan.fsgarcia',
   instagram: 'allan.fsgarcia',
   twitter: 'allanfsgarcia'
