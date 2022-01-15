@@ -1,7 +1,9 @@
+
+/**resetCSS**/
 * {
   margin: 0;
 }
-
+/**variablesAndFontStyle**/
 html,
 body {
   --black: hsl(240, 6%, 13%);
@@ -11,6 +13,8 @@ body {
   font-family: 'Roboto', sans-serif;
   -webkit-font-smoothing: antialiased;
 }
+
+/**mainConten**/
 
 body {
   display: grid;
